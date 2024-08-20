@@ -1,0 +1,70 @@
+* body{
+    background-color: #004c99;
+}
+.carrusel img{
+    max-height: 70vh;
+    object-fit: cover;
+}
+.carrusel #contenido{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+.carrusel .container, .carrusel .row{
+    width: 100%;
+    height: 100%;
+}
+.historia p{
+    color: white;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: sans-serif;
+}
+.storyline p{
+    color: white;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: sans-serif;
+
+}
+.logros p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    
+}
+#pie{
+    background-color: #a60042;
+}
+#pie a{
+    text-decoration: none;
+    color: white;
+}
+#titulo{
+    font-family:  sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.logros2{
+    font-family: sans-serif;
+    padding-left: 60px;
+    padding-right: 10px;
+    background-color: #a60042;
+}
+.logros{
+    background-color: #a60042;
+}
+.jugadores{
+    font-family: sans-serif;
+}
+.jugadores2{
+    padding-left: 60px;
+    padding-bottom: 10px;
+}
